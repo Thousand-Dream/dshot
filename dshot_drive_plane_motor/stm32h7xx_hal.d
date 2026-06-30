@@ -6,7 +6,7 @@ dshot_drive_plane_motor\stm32h7xx_hal.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm
 dshot_drive_plane_motor\stm32h7xx_hal.o: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h7xx.h
 dshot_drive_plane_motor\stm32h7xx_hal.o: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h723xx.h
 dshot_drive_plane_motor\stm32h7xx_hal.o: ../Drivers/CMSIS/Include/core_cm7.h
-dshot_drive_plane_motor\stm32h7xx_hal.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+dshot_drive_plane_motor\stm32h7xx_hal.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 dshot_drive_plane_motor\stm32h7xx_hal.o: ../Drivers/CMSIS/Include/cmsis_version.h
 dshot_drive_plane_motor\stm32h7xx_hal.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 dshot_drive_plane_motor\stm32h7xx_hal.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
@@ -15,8 +15,8 @@ dshot_drive_plane_motor\stm32h7xx_hal.o: ../Drivers/CMSIS/Include/cachel1_armv7.
 dshot_drive_plane_motor\stm32h7xx_hal.o: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/system_stm32h7xx.h
 dshot_drive_plane_motor\stm32h7xx_hal.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h
 dshot_drive_plane_motor\stm32h7xx_hal.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-dshot_drive_plane_motor\stm32h7xx_hal.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
-dshot_drive_plane_motor\stm32h7xx_hal.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h
+dshot_drive_plane_motor\stm32h7xx_hal.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+dshot_drive_plane_motor\stm32h7xx_hal.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
 dshot_drive_plane_motor\stm32h7xx_hal.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h
 dshot_drive_plane_motor\stm32h7xx_hal.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_gpio.h
 dshot_drive_plane_motor\stm32h7xx_hal.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_gpio_ex.h

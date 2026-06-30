@@ -1275,10 +1275,10 @@ ARM Macro Assembler    Page 20
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M7.fp.dp --apcs=
 interwork --depend=dshot_drive_plane_motor\startup_stm32h723xx.d -odshot_drive_
-plane_motor\startup_stm32h723xx.o -I.\RTE\_dshot_drive_plane_motor -ID:\Keil5\A
-RM\PACK\ARM\CMSIS\6.2.0\CMSIS\Core\Include --predefine="__UVISION_VERSION SETA 
-543" --predefine="STM32H723xx SETA 1" --predefine="_RTE_ SETA 1" --list=startup
-_stm32h723xx.lst startup_stm32h723xx.s
+plane_motor\startup_stm32h723xx.o -I.\RTE\_dshot_drive_plane_motor -ID:\Keil_v5
+\ARM\PACK\ARM\CMSIS\6.3.0\CMSIS\Core\Include --predefine="__UVISION_VERSION SET
+A 543" --predefine="STM32H723xx SETA 1" --predefine="_RTE_ SETA 1" --list=start
+up_stm32h723xx.lst startup_stm32h723xx.s
 
 
 

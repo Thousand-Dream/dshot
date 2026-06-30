@@ -1,6 +1,6 @@
 dshot_drive_plane_motor\dshot_lib.o: dshot\dshot_lib.c
 dshot_drive_plane_motor\dshot_lib.o: dshot\dshot_lib.h
-dshot_drive_plane_motor\dshot_lib.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+dshot_drive_plane_motor\dshot_lib.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 dshot_drive_plane_motor\dshot_lib.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h
 dshot_drive_plane_motor\dshot_lib.o: ../Core/Inc/stm32h7xx_hal_conf.h
 dshot_drive_plane_motor\dshot_lib.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h
@@ -16,8 +16,8 @@ dshot_drive_plane_motor\dshot_lib.o: ../Drivers/CMSIS/Include/cachel1_armv7.h
 dshot_drive_plane_motor\dshot_lib.o: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/system_stm32h7xx.h
 dshot_drive_plane_motor\dshot_lib.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h
 dshot_drive_plane_motor\dshot_lib.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-dshot_drive_plane_motor\dshot_lib.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
-dshot_drive_plane_motor\dshot_lib.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h
+dshot_drive_plane_motor\dshot_lib.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+dshot_drive_plane_motor\dshot_lib.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
 dshot_drive_plane_motor\dshot_lib.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h
 dshot_drive_plane_motor\dshot_lib.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_gpio.h
 dshot_drive_plane_motor\dshot_lib.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_gpio_ex.h
@@ -35,4 +35,4 @@ dshot_drive_plane_motor\dshot_lib.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7
 dshot_drive_plane_motor\dshot_lib.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h
 dshot_drive_plane_motor\dshot_lib.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim.h
 dshot_drive_plane_motor\dshot_lib.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h
-dshot_drive_plane_motor\dshot_lib.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+dshot_drive_plane_motor\dshot_lib.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
